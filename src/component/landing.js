@@ -66,9 +66,7 @@ const Landing = props => {
                 nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
                 in reprehenderit in voluptate velit esse cillum dolore eu fugiat
               </P>
-              <RetroButton
-                width={250}
-              >{`<  Download Bootstrap   >`}</RetroButton>
+              <RetroButton width={250}>{`  Download Bootstrap   `}</RetroButton>
             </div>
             <div className="p-5">
               <P white>
@@ -78,9 +76,7 @@ const Landing = props => {
                 nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
                 in reprehenderit in voluptate velit esse cillum dolore eu fugiat
               </P>
-              <RetroButton
-                width={250}
-              >{`<  Download Bootstrap   >`}</RetroButton>
+              <RetroButton width={250}>{`  Download Bootstrap   `}</RetroButton>
             </div>
           </div>
         </div>
