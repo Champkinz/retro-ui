@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Champkinz/retro-ui/static/css/main.fe5c6406.chunk.css",
-    "main.js": "/Champkinz/retro-ui/static/js/main.f4316777.chunk.js",
-    "main.js.map": "/Champkinz/retro-ui/static/js/main.f4316777.chunk.js.map",
-    "runtime-main.js": "/Champkinz/retro-ui/static/js/runtime-main.affd80a1.js",
-    "runtime-main.js.map": "/Champkinz/retro-ui/static/js/runtime-main.affd80a1.js.map",
-    "static/js/2.4f08f39e.chunk.js": "/Champkinz/retro-ui/static/js/2.4f08f39e.chunk.js",
-    "static/js/2.4f08f39e.chunk.js.map": "/Champkinz/retro-ui/static/js/2.4f08f39e.chunk.js.map",
-    "index.html": "/Champkinz/retro-ui/index.html",
-    "precache-manifest.3096f5c26395c725a9c3f3d6cdbf424f.js": "/Champkinz/retro-ui/precache-manifest.3096f5c26395c725a9c3f3d6cdbf424f.js",
-    "service-worker.js": "/Champkinz/retro-ui/service-worker.js",
-    "static/css/main.fe5c6406.chunk.css.map": "/Champkinz/retro-ui/static/css/main.fe5c6406.chunk.css.map",
-    "static/js/2.4f08f39e.chunk.js.LICENSE.txt": "/Champkinz/retro-ui/static/js/2.4f08f39e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Champkinz/retro-ui/static/media/logo.5d5d9eef.svg"
+    "main.css": "/retro-ui/static/css/main.fe5c6406.chunk.css",
+    "main.js": "/retro-ui/static/js/main.365e9461.chunk.js",
+    "main.js.map": "/retro-ui/static/js/main.365e9461.chunk.js.map",
+    "runtime-main.js": "/retro-ui/static/js/runtime-main.4109a90b.js",
+    "runtime-main.js.map": "/retro-ui/static/js/runtime-main.4109a90b.js.map",
+    "static/js/2.a6ffc8de.chunk.js": "/retro-ui/static/js/2.a6ffc8de.chunk.js",
+    "static/js/2.a6ffc8de.chunk.js.map": "/retro-ui/static/js/2.a6ffc8de.chunk.js.map",
+    "index.html": "/retro-ui/index.html",
+    "precache-manifest.3b4cab0a069d887bd9748064239e6d0b.js": "/retro-ui/precache-manifest.3b4cab0a069d887bd9748064239e6d0b.js",
+    "service-worker.js": "/retro-ui/service-worker.js",
+    "static/css/main.fe5c6406.chunk.css.map": "/retro-ui/static/css/main.fe5c6406.chunk.css.map",
+    "static/js/2.a6ffc8de.chunk.js.LICENSE.txt": "/retro-ui/static/js/2.a6ffc8de.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/retro-ui/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.affd80a1.js",
-    "static/js/2.4f08f39e.chunk.js",
+    "static/js/runtime-main.4109a90b.js",
+    "static/js/2.a6ffc8de.chunk.js",
     "static/css/main.fe5c6406.chunk.css",
-    "static/js/main.f4316777.chunk.js"
+    "static/js/main.365e9461.chunk.js"
   ]
 }
