@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Champkinz/retro-ui/precache-manifest.4d586dec854126e212ee99aa20c7136c.js"
+  "/Champkinz/retro-ui/precache-manifest.3096f5c26395c725a9c3f3d6cdbf424f.js"
 );
 
 self.addEventListener('message', (event) => {

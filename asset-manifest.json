@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Champkinz/retro-ui/static/css/main.fe5c6406.chunk.css",
-    "main.js": "/Champkinz/retro-ui/static/js/main.b678c34a.chunk.js",
-    "main.js.map": "/Champkinz/retro-ui/static/js/main.b678c34a.chunk.js.map",
+    "main.js": "/Champkinz/retro-ui/static/js/main.f4316777.chunk.js",
+    "main.js.map": "/Champkinz/retro-ui/static/js/main.f4316777.chunk.js.map",
     "runtime-main.js": "/Champkinz/retro-ui/static/js/runtime-main.affd80a1.js",
     "runtime-main.js.map": "/Champkinz/retro-ui/static/js/runtime-main.affd80a1.js.map",
     "static/js/2.4f08f39e.chunk.js": "/Champkinz/retro-ui/static/js/2.4f08f39e.chunk.js",
     "static/js/2.4f08f39e.chunk.js.map": "/Champkinz/retro-ui/static/js/2.4f08f39e.chunk.js.map",
     "index.html": "/Champkinz/retro-ui/index.html",
-    "precache-manifest.4d586dec854126e212ee99aa20c7136c.js": "/Champkinz/retro-ui/precache-manifest.4d586dec854126e212ee99aa20c7136c.js",
+    "precache-manifest.3096f5c26395c725a9c3f3d6cdbf424f.js": "/Champkinz/retro-ui/precache-manifest.3096f5c26395c725a9c3f3d6cdbf424f.js",
     "service-worker.js": "/Champkinz/retro-ui/service-worker.js",
     "static/css/main.fe5c6406.chunk.css.map": "/Champkinz/retro-ui/static/css/main.fe5c6406.chunk.css.map",
     "static/js/2.4f08f39e.chunk.js.LICENSE.txt": "/Champkinz/retro-ui/static/js/2.4f08f39e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.affd80a1.js",
     "static/js/2.4f08f39e.chunk.js",
     "static/css/main.fe5c6406.chunk.css",
-    "static/js/main.b678c34a.chunk.js"
+    "static/js/main.f4316777.chunk.js"
   ]
 }

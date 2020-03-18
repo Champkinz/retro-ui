@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb37b56024a8c52b769f428e49908792",
+    "revision": "bc6dfb043661edaed4d9147c7e88d879",
     "url": "/Champkinz/retro-ui/index.html"
   },
   {
-    "revision": "f2c8cf9d64a49462b5cc",
+    "revision": "bca17ac6827a4347a2c5",
     "url": "/Champkinz/retro-ui/static/css/main.fe5c6406.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Champkinz/retro-ui/static/js/2.4f08f39e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2c8cf9d64a49462b5cc",
-    "url": "/Champkinz/retro-ui/static/js/main.b678c34a.chunk.js"
+    "revision": "bca17ac6827a4347a2c5",
+    "url": "/Champkinz/retro-ui/static/js/main.f4316777.chunk.js"
   },
   {
     "revision": "b0f995ef21f32a830404",
